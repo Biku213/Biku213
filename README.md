@@ -11,7 +11,7 @@
 
  🌱 I’m currently learning **Flutter**.
 
- 📫 How to reach me **kunwarbindu220@gmail.com**
+ 📫 Reach me via **kunwarbindu220@gmail.com**
 
  ⚡ Fun fact **I enjoy listening songs and travelling**.
 </div>
