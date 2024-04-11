@@ -7,10 +7,7 @@
  
  ## About Me🙋‍♂️ 
 
- 🔭 I’m currently working on **Blog App**.
-
- 🌱 I’m currently learning **Flutter**.
-
+ 
  📫 Reach me via **kunwarbindu220@gmail.com**
 
  ⚡ Fun fact **I enjoy listening songs and travelling**.
