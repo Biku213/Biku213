@@ -10,7 +10,7 @@
  
  📫 Reach me via **kunwarbindu220@gmail.com**
 
- ⚡ Fun fact **I enjoy listening songs and travelling**.
+
 </div>
 <br/>
 
