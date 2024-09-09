@@ -16,16 +16,6 @@
 
 <div id="header" align="Left">
 
-## Languages and Tools🚀 
-
-<p align="left"> 
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
-</div>
-<br/>
-
-<div id="header" align="Left">
-
 ## My Github Stats📊
 <br/>
     <a href="https://github.com/Biku213/github-readme-stats"><img alt="Bindu Kunwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Biku213&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
